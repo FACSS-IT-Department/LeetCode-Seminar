@@ -12,6 +12,8 @@ Here's a list of all the problems and related codes.
   + [167. Two Sum II - Input array is sorted / C++](code/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.cpp)
   + [414. Third Maximum Number / C++](code/414.%20Third%20Maximum%20Number/414.cpp)
   + [415. Add Strings / C++](code/415.%20Add%20Strings/415.cpp)
+  + [973. K Closest Points to Origin](code/973.%K%Closest%Points%to%Origin/KClosest.py)
+  + [42. Trapping Rain Water](code/42.%Trapping%Rain%Water/Trap.py)
 
 
 
