@@ -13,3 +13,8 @@ Here's a list of all the problems and related codes.
   + [14. longestCommonPrefix/JAVA](code/longestCommonPrefix_14/longestCommonPrefix_14)
   + [28.strStr()/JAVA](code/strStr_28/Implement_strStr_28.java)
 
++ Sept 29
+  + [&nbsp;66. Plus One](code/66.%20Plus%20One/66.cpp)
+  + [167. Two Sum II - Input array is sorted](code/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/167.cpp)
+  + [414. Third Maximum Number](code/414.%20Third%20Maximum%20Number/414.cpp)
+  + [415. Add Strings](code/415.%20Add%20Strings/415.cpp)
