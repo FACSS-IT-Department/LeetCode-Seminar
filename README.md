@@ -10,6 +10,8 @@ Here's a list of all the problems and related codes.
   + [Heap Sort / C++](Basic%20Algorithm/Heap%20Sort/main.cpp)
   + [139. Word Break / Python](code/139.%20Word%20Break/39.%20Word%20Break.py)
   + [200. Number of Islands / Python](code/200.%20Number%20of%20Islands/LC%20200.py)
+  +  [21. Merge Two Sorted Lists/java](code/21.%20Merge%20Two%20Sorted%20Lists/21.java)
+  + [146. LRU Cache/java](code/146.%20LRU%20Cache/146.java)
 
 
 + Sept. 29
