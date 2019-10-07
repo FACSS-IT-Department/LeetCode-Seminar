@@ -8,8 +8,8 @@ This is a collection of all of the code we shared in the seminar.
 Here's a list of all the problems and related codes.
 + Oct. 06
   + [Heap Sort / C++](Basic%20Algorithm/Heap%20Sort/main.cpp)
-  + [139. Word Break / Python]
-  + [200. Number of Islands / Python]
+  + [139. Word Break / Python](code/139.%20Word%20Break/39.%20Word%20Break.py)
+  + [200. Number of Islands / Python](code/200.%20Number%20of%20Islands/LC%20200.py)
 
 
 + Sept. 29
