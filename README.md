@@ -6,6 +6,11 @@ This is a collection of all of the code we shared in the seminar.
 ## Table of Contents
 
 Here's a list of all the problems and related codes.
+
++ Oct. 13
+  + [206. Reverse Linked List / Java](code/206.%20Reverse%20Linked%20List/ReverseLinkedList.java)
+  + [876. Middle of the Linked List / Java](code/876.%20Middle%20of%20the%20Linked%20List/MiddleLinkedList.java)
+  
 + Oct. 06
   + [Heap Sort / C++](Basic%20Algorithm/Heap%20Sort/main.cpp)
   + [139. Word Break / Python](code/139.%20Word%20Break/39.%20Word%20Break.py)
