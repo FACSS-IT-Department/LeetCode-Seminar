@@ -8,7 +8,7 @@ This is a collection of all of the code we shared in the seminar.
 Here's a list of all the problems and related codes.
 
 - Oct. 16
-  - [242.Valid Anagram/ Java](code/242.%20Valid%20Anagram%20/Valid Anagram.java)
+  - [242.Valid Anagram/ Java](code/242.%20Valid%20Anagram/Valid Anagram.java)
   - [509. Fibonacci Number/ Java](code/509.%20Fibonacci%20Number/Fibonacci Number.java)
 
 + Oct. 13
