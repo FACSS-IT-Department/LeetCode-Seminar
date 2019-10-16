@@ -7,10 +7,9 @@ This is a collection of all of the code we shared in the seminar.
 
 Here's a list of all the problems and related codes.
 
-Oct. 13
-
-- [206. Reverse Linked List / Java](code/206.%20Reverse%20Linked%20List/ReverseLinkedList.java)
-- [876. Middle of the Linked List / Java](code/876.%20Middle%20of%20the%20Linked%20List/MiddleLinkedList.java)
+- Oct.16
+  - [242. Valid Anagram / Java](code/242.%20Valid%20Anagram/Valid Anagram.java)
+  - [509. Fibonacci Number/ Java](code/509.%20Fibonacci%20Number/Fibonacci Number.java)
 
 + Oct. 13
   + [206. Reverse Linked List / Java](code/206.%20Reverse%20Linked%20List/ReverseLinkedList.java)
