@@ -9,6 +9,7 @@ Here's a list of all the problems and related codes.
 
 + Oct. 20
   + [239. Sliding Window Maximum / Java](code/239.%20Sliding%20Window%20Maximum/Solution.java) + [239. Sliding Window Maximum / Python](code/239.%20Sliding%20Window%20Maximum/solution.py)
+  + [980. Unique Paths III / Cpp / Solution1](code/980.%20Unique%20Paths%20III/Solution1.cpp) + [980. Unique Paths III / Cpp / Solution2](code/980.%20Unique%20Paths%20III/Solution2.cpp) 
 
 + Oct. 13
   + [206. Reverse Linked List / Java](code/206.%20Reverse%20Linked%20List/ReverseLinkedList.java)
