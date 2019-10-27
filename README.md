@@ -6,6 +6,19 @@ This is a collection of all of the code we shared in the seminar.
 ## Table of Contents
 
 Here's a list of all the problems and related codes.
+
++ Oct. 20
+  + [133. CloneGraph](code/133.%20CloneGraph/M_133_CloneGraph)
+  + [041. First Missing Positive](code/41.%20FirstMissingPositive)
+  + [239. Sliding Window Maximum / Java](code/239.%20Sliding%20Window%20Maximum/Solution.java) + [239. Sliding Window Maximum / Python](code/239.%20Sliding%20Window%20Maximum/solution.py)
+  + [980. Unique Paths III / Cpp / Solution1](code/980.%20Unique%20Paths%20III/Solution1.cpp) + [980. Unique Paths III / Cpp / Solution2](code/980.%20Unique%20Paths%20III/Solution2.cpp) 
+
++ Oct. 13
+  + [206. Reverse Linked List / Java](code/206.%20Reverse%20Linked%20List/ReverseLinkedList.java)
+  + [876. Middle of the Linked List / Java](code/876.%20Middle%20of%20the%20Linked%20List/MiddleLinkedList.java)
+  + [242. Valid Anagram / Java](code/242.%20Valid%20Anagram/Anagram.java)
+  + [509. Fibonacci Number/ Java](code/509.%20Fibonacci%20Number/Fibonacci.java)
+  
 + Oct. 06
   + [Heap Sort / C++](Basic%20Algorithm/Heap%20Sort/main.cpp)
   + [139. Word Break / Python](code/139.%20Word%20Break/39.%20Word%20Break.py)
@@ -29,4 +42,6 @@ Here's a list of all the problems and related codes.
   + [69. Sqrt(x) / Python](code/69.%20Sqrt(x)/main.py) + [69. Sqrt(x) / Java](code/69.%20Sqrt(x)/Sqrtx_69.java)
   + [14. Longest Common Prefix / Java](code/14.%20Longest%20Common%20Prefix/longestCommonPrefix_14.java)
   + [28. Implement strStr() / Java](code/28.%20Implement%20strStr()/Implement_strStr_28.java)
+  
+
 
