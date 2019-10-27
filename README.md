@@ -7,6 +7,10 @@ This is a collection of all of the code we shared in the seminar.
 
 Here's a list of all the problems and related codes.
 
++ Oct. 27
+  + [pre/in/post/levelOrder. java](Basic%20Algorithm/pre/in/postorder/traversal.java)
+  + [53. Maximum Subarray/java](code/53.%20Maximum%20Subarray/53.java)
+
 + Oct. 20
   + [133. CloneGraph](code/133.%20CloneGraph/M_133_CloneGraph)
   + [041. First Missing Positive](code/41.%20FirstMissingPositive)
