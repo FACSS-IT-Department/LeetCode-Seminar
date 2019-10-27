@@ -8,6 +8,8 @@ This is a collection of all of the code we shared in the seminar.
 Here's a list of all the problems and related codes.
 
 + Oct. 20
+  + [133. CloneGraph](code/133.%20CloneGraph/M_133_CloneGraph)
+  + [041. First Missing Positive](code/41.%20FirstMissingPositive)
   + [239. Sliding Window Maximum / Java](code/239.%20Sliding%20Window%20Maximum/Solution.java) + [239. Sliding Window Maximum / Python](code/239.%20Sliding%20Window%20Maximum/solution.py)
   + [980. Unique Paths III / Cpp / Solution1](code/980.%20Unique%20Paths%20III/Solution1.cpp) + [980. Unique Paths III / Cpp / Solution2](code/980.%20Unique%20Paths%20III/Solution2.cpp) 
 
@@ -40,4 +42,6 @@ Here's a list of all the problems and related codes.
   + [69. Sqrt(x) / Python](code/69.%20Sqrt(x)/main.py) + [69. Sqrt(x) / Java](code/69.%20Sqrt(x)/Sqrtx_69.java)
   + [14. Longest Common Prefix / Java](code/14.%20Longest%20Common%20Prefix/longestCommonPrefix_14.java)
   + [28. Implement strStr() / Java](code/28.%20Implement%20strStr()/Implement_strStr_28.java)
+  
+
 
