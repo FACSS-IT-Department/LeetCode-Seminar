@@ -7,6 +7,14 @@ This is a collection of all of the code we shared in the seminar.
 
 Here's a list of all the problems and related codes.
 
++ Nove. 03
+  + [60. Permutation Sequence.py](code/60.%20Permutation%20Sequence/Permunation.py)
+  + [91. Decode Ways](code/90.%20Decode%20Ways/Decode%20Ways.py)
+
++ Oct. 27
+  + [pre/in/post/levelOrder. java](Basic%20Algorithm/preinpostorder/traversal.java)
+  + [53. Maximum Subarray/java](code/53.%20Maximum%20Subarray/53.java)
+
 + Oct. 20
   + [133. CloneGraph](code/133.%20CloneGraph/M_133_CloneGraph)
   + [041. First Missing Positive](code/41.%20FirstMissingPositive)
