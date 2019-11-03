@@ -10,10 +10,13 @@ Here's a list of all the problems and related codes.
 + Nove. 03
   + [60. Permutation Sequence.py](code/60.%20Permutation%20Sequence/Permunation.py)
   + [91. Decode Ways](code/90.%20Decode%20Ways/Decode%20Ways.py)
+  + [547. Friend Circle](code/547.%20Friend%20Circles/FindCircleNum.py)
 
 + Oct. 27
   + [pre/in/post/levelOrder. java](Basic%20Algorithm/preinpostorder/traversal.java)
   + [53. Maximum Subarray/java](code/53.%20Maximum%20Subarray/53.java)
+  + [124. Binary Tree Maximum Path Sum](code/124.%20Binary%20Tree%20Maximum%20Path%20Sum/Solution.java)
+  + [297. Serialize and Deserialize Binary Tree](code/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/Codec.py)
 
 + Oct. 20
   + [133. CloneGraph](code/133.%20CloneGraph/M_133_CloneGraph)
