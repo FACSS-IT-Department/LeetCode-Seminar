@@ -9,7 +9,7 @@ class Solution(object):
         
         res = ''
         
-        k -= 1
+        k -= 1  #subtract 1 because of things always starting at 0
         
         while n > 0:
             n-=1
