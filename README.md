@@ -11,6 +11,7 @@ Here's a list of all the problems and related codes.
   + [60. Permutation Sequence.py](code/60.%20Permutation%20Sequence/Permunation.py)
   + [91. Decode Ways](code/90.%20Decode%20Ways/Decode%20Ways.py)
   + [547. Friend Circle](code/547.%20Friend%20Circles/FindCircleNum.py)
+  + [2. add two numbers](code/2.%20add%20two%20numbers/2.add two numbers.java)
 
 + Oct. 27
   + [pre/in/post/levelOrder. java](Basic%20Algorithm/preinpostorder/traversal.java)
