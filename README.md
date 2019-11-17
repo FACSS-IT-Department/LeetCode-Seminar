@@ -7,6 +7,10 @@ This is a collection of all of the code we shared in the seminar.
 
 Here's a list of all the problems and related codes.
 
++ Nove. 17
+  + [19. Remove Nth Node From End of List](code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/19.cpp)
+  + [283. Move Zeros](code/283.%20Move%20Zeros/283.cpp)
+
 + Nove. 10
   + [1038. Binary Search Tree to Greater Sum Tree](code/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/BSTToGreaterSum.java)
   + [654. Maximum Binary Tree](code/654.%20Maximum%20Binary%20Tree/MaximumBinaryTree.java)
