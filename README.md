@@ -9,6 +9,8 @@ Here's a list of all the problems and related codes.
 
 + Nove. 17
   + [19. Remove Nth Node From End of List](code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/19.cpp)
+  + [20. Valid Parentheses](code/20.%20Valid%20Parentheses/20.java)
+  + [572. Subtree of Another Tree](code/572.%20Subtree%20of%20Another%20Tree/572.java)
   + [283. Move Zeros](code/283.%20Move%20Zeros/283.cpp)
 
 + Nove. 10
