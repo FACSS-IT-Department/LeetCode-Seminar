@@ -8,8 +8,8 @@ This is a collection of all of the code we shared in the seminar.
 Here's a list of all the problems and related codes.
 
 + Nove. 10
-  + [1038. Binary Search Tree to Greater Sum Tree](code/1038.%Binary%Search%Tree%to%Greater%Sum%Tree/BSTToGreaterSum.java)
-  + [654. Maximum Binary Tree](code/654.%Maximum%Binary%Tree/MaximumBinaryTree.java)
+  + [1038. Binary Search Tree to Greater Sum Tree](code/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/BSTToGreaterSum.java)
+  + [654. Maximum Binary Tree](code/654.%20Maximum%20Binary%20Tree/MaximumBinaryTree.java)
 
 + Nove. 03
   + [60. Permutation Sequence.py](code/60.%20Permutation%20Sequence/Permunation.py)
